@@ -13,11 +13,11 @@
 		B612CC831C3B72D400371030 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B612CC811C3B72D400371030 /* Main.storyboard */; };
 		B612CC851C3B72D400371030 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B612CC841C3B72D400371030 /* Assets.xcassets */; };
 		B612CC881C3B72D400371030 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B612CC861C3B72D400371030 /* LaunchScreen.storyboard */; };
-		B612CC981C3B72F100371030 /* LICENSE.md in Sources */ = {isa = PBXBuildFile; fileRef = B612CC901C3B72F100371030 /* LICENSE.md */; };
-		B612CC991C3B72F100371030 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = B612CC911C3B72F100371030 /* README.md */; };
-		B612CC9A1C3B72F100371030 /* SIAlertView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B612CC931C3B72F100371030 /* SIAlertView.bundle */; };
-		B612CC9B1C3B72F100371030 /* SIAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = B612CC951C3B72F100371030 /* SIAlertView.m */; };
-		B612CC9C1C3B72F100371030 /* UIWindow+SIUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = B612CC971C3B72F100371030 /* UIWindow+SIUtils.m */; };
+		B612CCA51C3B763700371030 /* LICENSE.md in Sources */ = {isa = PBXBuildFile; fileRef = B612CC9E1C3B763700371030 /* LICENSE.md */; };
+		B612CCA61C3B763700371030 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = B612CC9F1C3B763700371030 /* README.md */; };
+		B612CCA71C3B763700371030 /* SIAlertView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B612CCA01C3B763700371030 /* SIAlertView.bundle */; };
+		B612CCA81C3B763700371030 /* SIAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = B612CCA21C3B763700371030 /* SIAlertView.m */; };
+		B612CCA91C3B763700371030 /* UIWindow+SIUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = B612CCA41C3B763700371030 /* UIWindow+SIUtils.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,13 +31,13 @@
 		B612CC841C3B72D400371030 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B612CC871C3B72D400371030 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B612CC891C3B72D400371030 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B612CC901C3B72F100371030 /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
-		B612CC911C3B72F100371030 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		B612CC931C3B72F100371030 /* SIAlertView.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = SIAlertView.bundle; sourceTree = "<group>"; };
-		B612CC941C3B72F100371030 /* SIAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SIAlertView.h; sourceTree = "<group>"; };
-		B612CC951C3B72F100371030 /* SIAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SIAlertView.m; sourceTree = "<group>"; };
-		B612CC961C3B72F100371030 /* UIWindow+SIUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWindow+SIUtils.h"; sourceTree = "<group>"; };
-		B612CC971C3B72F100371030 /* UIWindow+SIUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWindow+SIUtils.m"; sourceTree = "<group>"; };
+		B612CC9E1C3B763700371030 /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
+		B612CC9F1C3B763700371030 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B612CCA01C3B763700371030 /* SIAlertView.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = SIAlertView.bundle; sourceTree = "<group>"; };
+		B612CCA11C3B763700371030 /* SIAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SIAlertView.h; sourceTree = "<group>"; };
+		B612CCA21C3B763700371030 /* SIAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SIAlertView.m; sourceTree = "<group>"; };
+		B612CCA31C3B763700371030 /* UIWindow+SIUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWindow+SIUtils.h"; sourceTree = "<group>"; };
+		B612CCA41C3B763700371030 /* UIWindow+SIUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWindow+SIUtils.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +70,7 @@
 		B612CC771C3B72D400371030 /* SIAlertView */ = {
 			isa = PBXGroup;
 			children = (
-				B612CC8F1C3B72F100371030 /* SIAlertView */,
+				B612CC9D1C3B763700371030 /* SIAlertView */,
 				B612CC7B1C3B72D400371030 /* AppDelegate.h */,
 				B612CC7C1C3B72D400371030 /* AppDelegate.m */,
 				B612CC7E1C3B72D400371030 /* ViewController.h */,
@@ -92,24 +92,16 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		B612CC8F1C3B72F100371030 /* SIAlertView */ = {
+		B612CC9D1C3B763700371030 /* SIAlertView */ = {
 			isa = PBXGroup;
 			children = (
-				B612CC901C3B72F100371030 /* LICENSE.md */,
-				B612CC911C3B72F100371030 /* README.md */,
-				B612CC921C3B72F100371030 /* SIAlertView */,
-			);
-			path = SIAlertView;
-			sourceTree = "<group>";
-		};
-		B612CC921C3B72F100371030 /* SIAlertView */ = {
-			isa = PBXGroup;
-			children = (
-				B612CC931C3B72F100371030 /* SIAlertView.bundle */,
-				B612CC941C3B72F100371030 /* SIAlertView.h */,
-				B612CC951C3B72F100371030 /* SIAlertView.m */,
-				B612CC961C3B72F100371030 /* UIWindow+SIUtils.h */,
-				B612CC971C3B72F100371030 /* UIWindow+SIUtils.m */,
+				B612CC9E1C3B763700371030 /* LICENSE.md */,
+				B612CC9F1C3B763700371030 /* README.md */,
+				B612CCA01C3B763700371030 /* SIAlertView.bundle */,
+				B612CCA11C3B763700371030 /* SIAlertView.h */,
+				B612CCA21C3B763700371030 /* SIAlertView.m */,
+				B612CCA31C3B763700371030 /* UIWindow+SIUtils.h */,
+				B612CCA41C3B763700371030 /* UIWindow+SIUtils.m */,
 			);
 			path = SIAlertView;
 			sourceTree = "<group>";
@@ -172,7 +164,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B612CC881C3B72D400371030 /* LaunchScreen.storyboard in Resources */,
-				B612CC9A1C3B72F100371030 /* SIAlertView.bundle in Resources */,
+				B612CCA71C3B763700371030 /* SIAlertView.bundle in Resources */,
 				B612CC851C3B72D400371030 /* Assets.xcassets in Resources */,
 				B612CC831C3B72D400371030 /* Main.storyboard in Resources */,
 			);
@@ -185,11 +177,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B612CC981C3B72F100371030 /* LICENSE.md in Sources */,
+				B612CCA51C3B763700371030 /* LICENSE.md in Sources */,
 				B612CC801C3B72D400371030 /* ViewController.m in Sources */,
-				B612CC991C3B72F100371030 /* README.md in Sources */,
-				B612CC9C1C3B72F100371030 /* UIWindow+SIUtils.m in Sources */,
-				B612CC9B1C3B72F100371030 /* SIAlertView.m in Sources */,
+				B612CCA61C3B763700371030 /* README.md in Sources */,
+				B612CCA91C3B763700371030 /* UIWindow+SIUtils.m in Sources */,
+				B612CCA81C3B763700371030 /* SIAlertView.m in Sources */,
 				B612CC7D1C3B72D400371030 /* AppDelegate.m in Sources */,
 				B612CC7A1C3B72D400371030 /* main.m in Sources */,
 			);
@@ -338,6 +330,7 @@
 				B612CC8E1C3B72D400371030 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
